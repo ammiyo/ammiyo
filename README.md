@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Ammiyo Paul</h1>
+<h3 align="center">Aspiring Data Analyst | MCA Student at SRM University</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
+</p>
 # 💫 About Me:
 I am an MCA student passionate about data analysis and data visualization.<br><br>I enjoy working with data to discover insights and build dashboards that help businesses make better decisions.<br><br>Currently learning Python for Data Analysis, SQL for business analytics, and Power BI for data visualization.
 
